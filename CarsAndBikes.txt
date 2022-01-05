@@ -1,0 +1,9 @@
+C:Honda Ballade 1.5l 2017
+B:Kawasaki KLR250 1990
+C:Alfa Romeo Giulia 2017
+C:Audi A4 2016
+C:Nissan Armada 2017
+B:Yamaha GTS1000 1994
+C:Mercedes Benz GLC Coupe 2017
+B:Honda CBR250 1987
+C:Volvo S90 2017
